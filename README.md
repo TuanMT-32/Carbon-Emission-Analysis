@@ -98,7 +98,7 @@ The scope of this analysis is grounded in structured data derived from the follo
 
 ---
 
-###  **Overview of the Dataset Tables**
+##  **II. Overview of the Dataset Tables**
 
 #### **1. `product_emissions`**
 
@@ -190,8 +190,9 @@ By integrating and analyzing these datasets, the report seeks to deliver actiona
 | FROM | Where the data is getting from |
 | LMIT | Limiting how many rows is shown  |
 
-
 ---
+
+## **III. Analysis**
 
 ##  **Top 10 Products with the Highest PCFs – Analysis**
 
@@ -706,7 +707,7 @@ Certainly! Here's a **comprehensive conclusion** summarizing the key findings fr
 
 ---
 
-##  Conclusion
+##  **IV. Conclusion**
 
 This report provides a data-driven examination of product carbon footprints (PCFs) across companies, industries, countries, and time, using emissions data sourced from *Nature.com*. The analysis reveals several critical insights:
 
